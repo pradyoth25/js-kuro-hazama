@@ -1,2 +1,3 @@
-# js-kuro-hazama
-Basic JS version of black jack
+# Kuro Hazama
+
+Basic Javascript version of the game.
